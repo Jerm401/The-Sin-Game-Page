@@ -442,7 +442,6 @@ footer {
 
     .card {
         width: auto; /* Reset width for larger screens */
-        max-width: calc(16.666% - 20px); /* Reset max-width for larger screens */
     }
 
     footer {
